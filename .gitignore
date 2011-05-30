@@ -1,0 +1,3 @@
+build
+*.pyc
+src/txAMQP.egg-info
